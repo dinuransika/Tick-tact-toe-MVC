@@ -6,6 +6,12 @@ Display a 3x3 matrix of buttons.
 - The buttons selected by user 1 should be marked with a 1 and that for user 2 is 2. 
 - User 1 gets the first chance then the user 2 get the chance and so on.
 
+How to run the game:
+``` 
+javac Game.java 
+java Game 
+```
+
 Some Screen shots from the game.
 
 ![Game Window](/assets/Game%20window.png)
