@@ -18,7 +18,7 @@ Some Screen shots from the game.
 
 When one player wins,
 
-![Game Window](/assets/Player%20wins.png)
+![Game Window](/assets/Player%20Wins.png)
 
 When the game is draw,
 
